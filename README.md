@@ -1,18 +1,16 @@
 # Useful links
 
-A curated list of useful links for front-end, javascript, and web development.
+A curated list of useful links for front-end, javascript, and web development. All headings and links are ordered alphabetically.
 
-Please add your own by issuing a pull-request. All headings and links are ordered alphabetically.
+Please add your own by forking this repo, and then issuing a pull-request. 
 
 ## Courses
 
-<!-- 
-- [FreeCodeCamp]()
-- [OpenClassroom]()
-- [Lynda.com]()
-- [Khan Academy]()
-- [WesBos…]()
--->
+- [FreeCodeCamp](https://www.freecodecamp.org/)
+- [Khan Academy](https://www.khanacademy.org/)
+- [LinkedIn Learning (was Lynda.com)](https://www.linkedin.com/learning/)
+- [OpenClassrooms](https://openclassrooms.com/en/)
+- [WesBos courses](https://wesbos.com/courses) - JS, React, GraphQL, CSS, Node, and more.
 
 ## Editorials
 
@@ -38,6 +36,7 @@ Published content on anything web development and web design related topics.
 - [Dive Into HTML5](https://diveintohtml5.info/) - A fantastic (but aging) reference on all the magic behind HTML5, its new elements, CSS3, and the new JavaScript APIs.
 - [HTML5 Doctor](http://html5doctor.com/) - Explanations and insights into the various HTML5 elements
 - [HTMLDog](https://htmldog.com/references/) - HTML, CSS, and JS references
+- [MDN: Mozilla Developer Network](https://developer.mozilla.org/en-US/) - HTML, CSS, SVG, and JS references, examples and support information.
 
 ## Specifications
 
@@ -57,6 +56,14 @@ Published content on anything web development and web design related topics.
 
 - [Base64Encode.org](https://www.base64encode.org/) - Base64 (De/En)coder
 - [FontSquirrel's Webfont Generator](https://www.fontsquirrel.com/tools/webfont-generator) - Includes a subset editor, allowing you to cut the webfonts down in size even further.
+
+### Online development environments / Sandboxes
+
+- [CodePen](https://codepen.io/) - Front-end sandbox
+- [JS Fiddle](https://jsfiddle.net/) - JavaScript sandbox
+- [SassMeister](https://www.sassmeister.com/) - Online Sass Playground
+- [RegExr](https://regexr.com/) - Build, test, and learn Regular Expressions
+
 
 ### Support information
 
