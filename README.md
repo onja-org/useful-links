@@ -11,6 +11,7 @@ Please add your own by forking this repo, and then issuing a pull-request.
 - [LinkedIn Learning (was Lynda.com)](https://www.linkedin.com/learning/)
 - [OpenClassrooms](https://openclassrooms.com/en/)
 - [WesBos courses](https://wesbos.com/courses) - JS, React, GraphQL, CSS, Node, and more.
+- [Piccalilli](https://piccalil.li/courses/)
 
 ## Editorials
 
@@ -22,6 +23,7 @@ Published content on anything web development and web design related topics.
 ## Guides and Tutorials
 
 - [HTMLDog](https://htmldog.com/guides/) - HTML, CSS, and JS Guides
+- [Piccalilli](https://piccalil.li/tutorials/0/)
 
 ## Newsletters
 
@@ -30,6 +32,7 @@ Published content on anything web development and web design related topics.
 - [Front-end Front](https://frontendfront.com/) - Community-voted news articles on anything Front-end.
 - [JavaScript Weekly](https://javascriptweekly.com/) - Everything JS: topical, and recent.
 - [Porter.io](https://porter.io/) - Latest news based on your GitHub activity.
+- [Piccalilli](https://piccalil.li/newsletters/0/) - Mostly CSS
 
 ## References
 
